@@ -1,0 +1,23 @@
+{
+	"type"              : "lib",
+	"template"          : "clean",
+	"pm"                : "bun",
+	"repo"              : {
+		"org"           : "minejs",
+		"name"          : "store",
+		"version"       : "0.0.1",
+		"desc"          : "Lightweight reactive state management with optional persistence.",
+		"kw"            : ["minejs", "store"],
+		"license"       : "MIT",
+		"issues"        : "https://github.com/minejs/store/issues",
+		"homepage"      : "https://github.com/minejs/store#readme",
+		"git_url"       : "git+https://github.com/minejs/store.git"
+	},
+	"author"            : {
+		"id"            : "maysara-elshewehy",
+		"name"          : "Maysara",
+		"email"         : "maysara.elshewehy@gmail.com",
+		"url"           : "https://github.com/maysara-elshewehy"
+	},
+	"createdAt"         : "2026-01-03T06:14:38.084Z"
+}
